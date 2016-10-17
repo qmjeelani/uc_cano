@@ -1,7 +1,6 @@
 Chained Attributes aNd Options for Ubercart (UC_CANO)
 
 Ver 1.x
-July 1, 2010
 
 ================
 What is it for?
