@@ -1,0 +1,7 @@
+; $Id: uc_cano.info, Exp $
+name = CANO
+version = 1.3
+description = Chained Attributes and Options
+dependencies[] = uc_product
+dependencies[] = uc_attribute
+core = 6.x
